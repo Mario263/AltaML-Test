@@ -17,7 +17,7 @@ class TestCat(unittest.TestCase):
             cat.speak()
         mock_print.assert_called_once_with("meow")
         
-# optional test - If Cat can accept an argument and not just a empty string
+
     
     def test_cat_speaks_more(self):
         cat = Cat()

@@ -11,16 +11,16 @@ Review - This is an assessment presented by Abhishek Sharma given by AltaML. the
 <li>Python 3.9.9</li> 
 <li>UV</li>
 
-*To run the main demo please use the following command.*
+To run the main demo please use the following command.
 <pre><code>uv run python -m altaml.main</code></pre>
 
 *Make sure you are in the right directory* 
 ```C:\Users\Desktop\AltaML - I am running from this directory```
 
-*To run Task 3*
+To run Task 3
 <pre><code>uv run python -m altaml.petShop</code></pre>
 
-*To run tests*
+### To run tests
 <li>cd src\altaml </li>
 <li><pre><code>uv run python -m unittest discover -s tests -v</code></pre></li>
 
