@@ -2,7 +2,6 @@ from .cat import Cat
 from .dog import Dog
 from .data import Data 
 
-
 cat = Cat() 
 cat_name = cat.getName()
 
