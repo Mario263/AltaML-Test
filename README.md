@@ -12,26 +12,26 @@ Review - This is an assessment presented by Abhishek Sharma given by AltaML. the
 <li>UV</li>
 
 *To run the main demo please use the following command.*
-<pre><code>``` uv run python -m altaml.main ```</code></pre>
+<pre><code>uv run python -m altaml.main</code></pre>
 
 *Make sure you are in the right directory* 
 ```C:\Users\Desktop\AltaML - I am running from this directory```
 
 *To run Task 3*
-<pre><code>```uv run python -m altaml.petShop```</code></pre>
+<pre><code>uv run python -m altaml.petShop</code></pre>
 
 *To run tests*
 <li>cd src\altaml </li>
 <li><pre><code>uv run python -m unittest discover -s tests -v</code></pre></li>
 
 ## File Strucutre
-<li> Cat</li>
-<li> Dog</li>
-<li> Data</li>
-<li> main</li>
-<li> petShop</li>
-<li> tests</li>
-<li> homework.sql</li>
+<li> src\altaml\cat.py</li>
+<li> src\altaml\dog.py</li>
+<li> src\altaml\data.py</li>
+<li> src\altaml\main.py</li>
+<li> src\altaml\petShop.py</li>
+<li> src\altaml\tests</li>
+<li> src\altaml\homework.sql</li>
 
 ## Known discrepancy 
 
