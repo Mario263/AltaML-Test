@@ -8,10 +8,10 @@ Review - This is an assessment presented by Abhishek Sharma given by AltaML. the
 
 ### Requirements - 
 
-<li>1. Python 3.9.9</li> 
-<li>2. UV</li>
+<li>Python 3.9.9</li> 
+<li>UV</li>
 
-To run the main demo please use the following command. 
+*To run the main demo please use the following command.*
 ``` uv run python -m altaml.main ```
 
 *Make sure you are in the right directory* 
@@ -21,17 +21,17 @@ To run the main demo please use the following command.
 ```uv run python -m altaml.petShop```
 
 *To run tests*
-<li>1. cd src\altaml </li>
-<li>2. ``` uv run python -m unittest discover -s tests -v ``` </li>
+<li>cd src\altaml </li>
+<li><pre><code>uv run python -m unittest discover -s tests -v</code></pre></li>
 
 ## File Strucutre
-<li>1. Cat</li>
-<li>2. Dog</li>
-<li>3. Data</li>
-<li>4. main</li>
-<li>5. petShop</li>
-<li>6. tests</li>
-<li>7. homework.sql</li>
+<li> Cat</li>
+<li> Dog</li>
+<li> Data</li>
+<li> main</li>
+<li> petShop</li>
+<li> tests</li>
+<li> homework.sql</li>
 
 ## Known discrepancy 
 
