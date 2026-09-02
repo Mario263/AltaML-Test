@@ -12,13 +12,13 @@ Review - This is an assessment presented by Abhishek Sharma given by AltaML. the
 <li>UV</li>
 
 *To run the main demo please use the following command.*
-``` uv run python -m altaml.main ```
+<pre><code>``` uv run python -m altaml.main ```</code></pre>
 
 *Make sure you are in the right directory* 
 ```C:\Users\Desktop\AltaML - I am running from this directory```
 
 *To run Task 3*
-```uv run python -m altaml.petShop```
+<pre><code>```uv run python -m altaml.petShop```</code></pre>
 
 *To run tests*
 <li>cd src\altaml </li>
