@@ -10,9 +10,9 @@ CREATE TABLE pets(
 CREATE TABLE pet_name_hist(
     id INT PRIMARY KEY,
     pet_id INT NOT NULL,
-    FOREIGN KEY (pet_id) REFERENCES pets(id),
     name VARCHAR(20) NOT NULL,
-    name_pos INT NOT NULL
+    name_pos INT NOT NULL,
+    FOREIGN KEY (pet_id) REFERENCES pets(id)
 );
 
 INSERT INTO pets (

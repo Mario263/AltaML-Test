@@ -1,8 +1,12 @@
 ## AltaML - Abhishek Sharma Assessment
 
-Review - This is an assessment presented by Abhishek Sharma given by AltaML. the task is split into different tasks, please find the solution to all the tasks within this folder 
+Review - This is an assessment presented by Abhishek Sharma given by AltaML. The Source files are located in `src\altaml`, please run the following commands from the extracted project root directory.
 
-``` C:\Users\sharm\Desktop\AltaML\src\altaml ```
+``` AltaML\src\altaml ``` all files are present in this 
+
+*run from the exrtacted folder*
+
+``` AltaML\ ```
 
 ## How to run
 
@@ -15,7 +19,7 @@ To run the main demo please use the following command.
 <pre><code>uv run python -m altaml.main</code></pre>
 
 *Make sure you are in the right directory* 
-```C:\Users\Desktop\AltaML - I am running from this directory```
+```AltaML\ - I am running from this directory```
 
 To run Task 3
 <pre><code>uv run python -m altaml.petShop</code></pre>
@@ -34,7 +38,7 @@ To run Task 3
 
 
 
-## File Strucutre
+## File Structure
 <li> src\altaml\cat.py</li>
 <li> src\altaml\dog.py</li>
 <li> src\altaml\data.py</li>
