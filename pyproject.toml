@@ -1,7 +1,7 @@
 [project]
 name = "altaml"
 version = "0.1.0"
-description = "Add your description here"
+description = " AltaML Test"
 readme = "README.md"
 authors = [
     { name = "Abhishek Sharma", email = "sharma.abhishek263@gmail.com" }
